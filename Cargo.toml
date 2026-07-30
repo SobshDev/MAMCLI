@@ -4,5 +4,6 @@ members = [
     "crates/mamcli-core",
     "crates/mamcli-interface",
     "crates/mamcli-mcp",
+    "crates/mamcli-store-sqlite",
 ]
 resolver = "3"
