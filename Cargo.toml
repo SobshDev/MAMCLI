@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "crates/mamcli-cli",
+    "crates/mamcli-core",
+    "crates/mamcli-interface",
+    "crates/mamcli-mcp",
+]
+resolver = "3"
